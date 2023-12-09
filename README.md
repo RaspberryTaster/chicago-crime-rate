@@ -43,7 +43,7 @@ The dataset, covering 2001-2017, comprises:
 
 *Fig 2: Overview of crime types and their counts.*
 
-![Annual Crime Data](/CrimesPerYear.png)
+![Annual Crime Data](/CimesPerYear.png)
 
 *Fig 3: Yearly crime data visualization.*
 
